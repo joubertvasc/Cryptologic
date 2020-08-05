@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Cryptologic</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main_menu">Cryptologic!</string>
+    <string name="avPlayer2TryToDecipher">Player 2, Try to Decipher the Word.</string>
+    <string name="avPlayer1TypeaWord">Player 1, Type a Word</string>
+    <string name="avYouGotIt">YOU GOT IT WITH</string>
+    <string name="avNoErrors">NO ERRORS.</string>
+    <string name="avOneError">ONE ERROR.</string>
+    <string name="avErrors">ERRORS.</string>
+    <string name="avOk">Ok</string>
+    <string name="avCancel">Cancel</string>
+    <string name="avGo">Go</string>
+    <string name="avVersion">Version:</string>
+    <string name="avAuthor">Author:</string>
+    <string name="avWarning">Warning</string>
+    <string name="avError">Error</string>
+    <string name="avNotYetImplemented">Not yet implemented!</string>
+    <string name="avPleaseTypeaWord">Please type the word you want player 2 decipher.</string>
+    <string name="avTheWordCannotBeEmpty">The word cannot be empty.</string>
+    <string name="avWordRules">The word must have only 16 letters. No space, numbers or symbles are allowed.</string>
+    <string name="avYouShouldNotSee">You should not be seeing this message!</string>
+    <string name="avTribute">This game is a simple tribute to the Odyssey video game released in 1972. The original game was delivered embedded in some devices and demonstrates the simple way how the electronic entertainment was done in the past.</string>
+    
+    <string name="mn1Player">1 Player</string>
+    <string name="mn2Players">2 Players</string>
+    <string name="mnAbout">About</string>
+    <string name="mnExit">Exit</string>
+
+</resources>

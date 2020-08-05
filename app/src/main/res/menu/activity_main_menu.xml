@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mn1Player"
+        android:title="@string/mn1Player"
+        android:orderInCategory="100" />
+    <item android:id="@+id/mn2Players"
+        android:title="@string/mn2Players"
+        android:orderInCategory="100" />
+    <item android:id="@+id/mnAbout"
+        android:title="@string/mnAbout"
+        android:orderInCategory="100" />
+    <item android:id="@+id/mnExit"
+        android:title="@string/mnExit"
+        android:orderInCategory="100" />
+</menu>

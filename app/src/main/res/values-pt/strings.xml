@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">Cryptologic</string>
+    <string name="menu_settings">Configurações</string>
+    <string name="title_activity_main_menu">Cryptologic!</string>
+    <string name="avPlayer2TryToDecipher">Jogador 2, Tente decifrar a palavra.</string>
+    <string name="avPlayer1TypeaWord">Jogador 1, Digite uma palavra</string>
+    <string name="avYouGotIt">VOCÊ CONSEGUIU COM</string>
+    <string name="avNoErrors">NENHUM ERRO.</string>
+    <string name="avOneError">UM ERRO.</string>
+    <string name="avErrors">ERROS.</string>
+    <string name="avOk">Ok</string>
+    <string name="avCancel">Cancelar</string>
+    <string name="avGo">Vai</string>
+    <string name="avVersion">Versão:</string>
+    <string name="avAuthor">Autor:</string>
+    <string name="avWarning">Aviso</string>
+    <string name="avError">Erro</string>
+    <string name="avNotYetImplemented">Ainda não foi implementado!</string>
+    <string name="avPleaseTypeaWord">Por favor digite a palavra para o jogador 2 decifrar.</string>
+    <string name="avTheWordCannotBeEmpty">A palavra não pode ficar vazia.</string>
+    <string name="avWordRules">A palavra tem que ter no máximo 16 letras. Não pode ter espaços, números ou símbolos.</string>
+    <string name="avYouShouldNotSee">Você não deveria estar vendo esta mensagem!</string>
+    <string name="avTribute">Esse jogo é uma simples homenagem ao video game Odyssey lançado em 1972. O jogo original era entregue embutido em alguns consoles e demonstra de modo simples a forma como a diversão eletrônica era feita no passado.</string>
+    
+    <string name="mn1Player">1 Jogador</string>
+    <string name="mn2Players">2 Jogadores</string>
+    <string name="mnAbout">Sobre</string>
+    <string name="mnExit">Sair</string>
+                
+</resources>
